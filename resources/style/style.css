@@ -1,0 +1,24 @@
+h1, h5{
+  text-align: center;
+  font-family: Helvetica;
+  color: white;
+}
+
+h3, p {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+.Top {
+  background-image: url("C:/cygwin64/home/Di/broadway/broadway/resources/the-flatiron-building.png");
+  background-size: cover;
+}
